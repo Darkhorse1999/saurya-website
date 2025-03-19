@@ -9,11 +9,13 @@ const Info = () => {
         <span className="about__subtitle">2 years working</span>
       </div>
 
+      <a className="complete" href="https://app.cybrary.it/profile/saurya?tab=cert-completion" target="_blank" >
       <div className="about__box">
         <i class="bx bx-briefcase-alt about__icon"></i>
         <h3 className="about__title">Completed</h3>
         <span className="about__subtitle">15+ Projects</span>
       </div>
+      </a>
 
       <div className="about__box">
         <i class="bx bx-support about__icon"></i>
