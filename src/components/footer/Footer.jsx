@@ -25,7 +25,7 @@ const Footer = () => {
             <i class="bx bxl-instagram"></i>
           </a>
           <a
-            href="https://medium.com/@saurya456"
+            href="https://medium.com/@sauryachaudhary"
             className="footer__social-link"
           >
             <i class="uil uil-medium-m"></i>
